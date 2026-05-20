@@ -9,10 +9,10 @@
 <br/>
 
 <!-- Badges row -->
-![](https://img.shields.io/badge/🔥_Status-Open_to_Internships-F953C6?style=flat-square)
-![](https://img.shields.io/badge/📍_Location-Gurgaon,_India-38f9d7?style=flat-square)
-![](https://img.shields.io/badge/🎓_CGPA-7.3-f9a825?style=flat-square)
-![](https://img.shields.io/badge/💡_DSA-150+_Problems-56ccf2?style=flat-square)
+![](https://img.shields.io/badge/Status-Open_to_Internships-F953C6?style=flat-square)
+![](https://img.shields.io/badge/Location-Gurgaon,_India-38f9d7?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/CGPA-7.3-f9a825?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/DSA-150%2B_Problems-56ccf2?style=flat-square&labelColor=0D1117)
 
 </div>
 
