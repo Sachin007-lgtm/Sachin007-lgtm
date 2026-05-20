@@ -4,13 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=Sachin%20Singh&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20CS%20Undergrad&descAlignY=58&descSize=20&animation=twinkling&stroke=FFFFFF&strokeWidth=2" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=F953C6&center=true&vCenter=true&width=750&lines=🚀+Building+AI-powered+full-stack+products;🧠+RAG+Pipelines+%7C+LLM+Integration+%7C+FastAPI;⚛️+React+%7C+TypeScript+%7C+Node.js+%7C+Python;🎯+Open+to+SDE+Internships+%26+AI+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FF79C6&center=true&vCenter=true&width=750&lines=Building+AI-powered+full-stack+products;RAG+Pipelines+%7C+LLM+Integration+%7C+FastAPI;React+%7C+TypeScript+%7C+Node.js+%7C+Python;Open+to+SDE+Internships+%26+AI+Roles" alt="Typing SVG" />
 
 <br/>
 
 <!-- Badges row -->
-![](https://img.shields.io/badge/Status-Open_to_Internships-F953C6?style=flat-square)
-![](https://img.shields.io/badge/Location-Gurgaon,_India-38f9d7?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/Status-Open_to_Internships-F953C6?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/Location-Gurgaon%2C_India-38f9d7?style=flat-square&labelColor=0D1117)
 ![](https://img.shields.io/badge/CGPA-7.3-f9a825?style=flat-square&labelColor=0D1117)
 ![](https://img.shields.io/badge/DSA-150%2B_Problems-56ccf2?style=flat-square&labelColor=0D1117)
 
@@ -52,7 +52,7 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-singh-80949a344/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin007-lgtm)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Saxchish/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sachinsingh9971289015@gmail.com)
 
