@@ -240,11 +240,16 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 ---
 
-### 🌱 Contribution Activity
+### 🌱 GitHub Profile Summary
 
 <div align="center">
 
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin007-lgtm&theme=radical&bg_color=0D1117&color=F953C6&line=38f9d7&point=f9a825&area=true&hide_border=true)](https://github.com/Sachin007-lgtm)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sachin007-lgtm&theme=radical" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sachin007-lgtm&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sachin007-lgtm&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sachin007-lgtm&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sachin007-lgtm&theme=radical&utcOffset=5.5"/>
 
 </div>
 
@@ -254,7 +259,7 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sachin007-lgtm&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sachin007-lgtm&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
