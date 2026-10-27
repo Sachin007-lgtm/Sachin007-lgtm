@@ -227,8 +227,8 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin007-lgtm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin007-lgtm&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin007-lgtm&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=21600"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin007-lgtm&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=21600"/>
 
 </div>
 
