@@ -1,25 +1,35 @@
 <div align="center">
 
-<!-- Colourful Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=Sachin%20Singh&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20CS%20Undergrad&descAlignY=58&descSize=20&animation=twinkling&stroke=FFFFFF&strokeWidth=2" width="100%"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=240&section=header&text=Sachin%20Singh&fontSize=70&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20CS%20Undergrad&descAlignY=55&descSize=20&animation=twinkling&stroke=FFFFFF&strokeWidth=2" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FF79C6&center=true&vCenter=true&width=750&lines=Building+AI-powered+full-stack+products;RAG+Pipelines+%7C+LLM+Integration+%7C+FastAPI;React+%7C+Next.js+%7C+Node.js+%7C+Python;Open+to+SDE+Internships+%26+AI+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=FF79C6&center=true&vCenter=true&multiline=false&width=800&height=45&lines=Building+AI-powered+full-stack+products+%F0%9F%9A%80;RAG+Pipelines+%7C+LLM+Integration+%7C+FastAPI+%F0%9F%A7%A0;React+%7C+Next.js+%7C+Node.js+%7C+Python+%F0%9F%92%BB;Distributed+Systems+%7C+API+Engineering+%E2%9A%A1;Open+to+SDE+Internships+%26+AI+Roles+%F0%9F%8E%AF" alt="Typing SVG" />
 
 <br/>
 
 <!-- Badges row -->
 ![](https://img.shields.io/badge/Status-Open_to_Internships-F953C6?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/Location-Gurgaon%2C_India-38f9d7?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/CGPA-7.3-f9a825?style=flat-square&labelColor=0D1117)
-![](https://img.shields.io/badge/DSA-200%2B_Problems-56ccf2?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/Currently_@-Web3Task-38f9d7?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/Location-Gurgaon%2C_India-f9a825?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/CGPA-7.3-56ccf2?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/DSA-200%2B_Problems-FF79C6?style=flat-square&labelColor=0D1117)
+
+<br/>
+
+<!-- Snake contribution animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin007-lgtm/Sachin007-lgtm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin007-lgtm/Sachin007-lgtm/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sachin007-lgtm/Sachin007-lgtm/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
 <!-- About -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="coding gif"/>
 
 ### 👋 About Me
 
@@ -70,48 +80,27 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,cpp,html,css,typescript&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi&theme=dark)](https://skillicons.dev)
 
-**Databases**
+**Databases & Cloud**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,redis,aws&theme=dark)](https://skillicons.dev)
 
-**Cloud & APIs**
+**Tools & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark)](https://skillicons.dev)
 
-**AI / ML**
+**AI / ML Stack**
 
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-6E40C9?style=for-the-badge&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-F54600?style=for-the-badge&logo=groq&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-F54600?style=for-the-badge&logo=robot&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-7B3FE4?style=for-the-badge&logo=meta&logoColor=white)
 
 **Core CS**
 
@@ -147,7 +136,7 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
       <h3>🤖 Verto Solutions Limited</h3>
       <img src="https://img.shields.io/badge/Role-AI_Intern-38f9d7?style=flat-square"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/May-July_2025-56ccf2?style=flat-square"/>
+      <img src="https://img.shields.io/badge/May–July_2025-Remote-56ccf2?style=flat-square"/>
       <br/><br/>
       <p>Built <strong>CVSense</strong>, an AI recruitment platform for automated resume parsing and JD matching via REST API endpoints used by real recruiters. Designed semantic scoring logic with Sentence Transformers and FastAPI, with explainable JSON output per candidate. Implemented a Python batch-processing pipeline with logging for scale.</p>
       <p>
@@ -227,7 +216,7 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Batch_Processing-6E40C9?style=flat-square"/>
       </p>
-      <img src="https://img.shields.io/badge/May-July_2025-Remote-56ccf2?style=flat-square"/>
+      <img src="https://img.shields.io/badge/May–July_2025-Remote-56ccf2?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -238,14 +227,14 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin007-lgtm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin007-lgtm&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sachin007-lgtm&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin007-lgtm&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin007-lgtm&theme=radical&hide_border=true&fire=F953C6&ring=38f9d7&currStreakLabel=f9a825" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Sachin007-lgtm&theme=radical&hide_border=true&fire=F953C6&ring=38f9d7&currStreakLabel=f9a825&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -255,7 +244,7 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 <div align="center">
 
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin007-lgtm&theme=redical&bg_color=141321&color=F953C6&line=38f9d7&point=f9a825&area=true&hide_border=true)](https://github.com/Sachin007-lgtm)
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin007-lgtm&theme=radical&bg_color=0D1117&color=F953C6&line=38f9d7&point=f9a825&area=true&hide_border=true)](https://github.com/Sachin007-lgtm)
 
 </div>
 
@@ -265,7 +254,7 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sachin007-lgtm&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sachin007-lgtm&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -277,7 +266,7 @@ open_to: SDE Internships | AI/ML Roles | Full-Stack Roles
 |---|---|
 | 🥉 | **Smart India Hackathon (SIH) 2025** — 2nd Runner-up at college level |
 | 💡 | **200+ DSA problems** solved across LeetCode & GeeksforGeeks |
-| 🌐 | **Software Intern @ Web3Task** — Full-stack development on production systems serving 100K+ users |
+| 🌐 | **Software Intern @ Web3Task** — Full-stack on production systems serving 100K+ users |
 | 🤝 | **Social Intern @ In-Amigos Foundation** — NITI Aayog DARPAN-registered NGO (May 2026) |
 | 🛠️ | **AI Intern @ Verto Solutions Limited** — Production AI recruiting platform CVSense (May–July 2025) |
 
